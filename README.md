@@ -37,6 +37,28 @@
 
 ### 프로세스와 스레드의 차이점
 
+### <summary>운영체제는 무엇이고 어떤 역할을 수행하는지 설명해주세요.</summary>
+
+### <summary>시분할 시스템에 대해서 설명해주세요.</summary>
+
+### <summary>다중 프로그래밍 시스템(multi-programming system)에 대해서 설명해주세요. </summary>
+
+### <summary>시스템 콜에 대해 설명해주세요. </summary>
+
+### <summary>커널모드에 대해 설명해주세요. </summary>
+
+### <summary>유저모드에 대해 설명해주세요. </summary>
+
+### <summary>폴링에 대해 설명해주세요. </summary>
+
+### <summary>인터럽트에 대해 설명해주세요. </summary>
+
+### <summary>DMA에 대해 설명해주세요. </summary>
+
+### <summary>동기식 I/O에 대해 설명해주세요. </summary>
+
+### <summary>비동기식 I/O에 대해 설명해주세요. </summary>
+
 ---
 
 ## 네트워크
