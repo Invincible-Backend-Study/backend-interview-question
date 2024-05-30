@@ -17,6 +17,7 @@
 
 ### Override 애노테이션을 사용할 때 주의해야 하는 점이 있을까요? 혹은 @Override 애노테이션을 사용하지 않았을 때 발생할 수 있는 문제는 무엇인가요?
 
+### String constant pool과 Runtime Constant pool, Class file constant pool의 차이점
 
 ---
 
