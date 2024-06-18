@@ -535,6 +535,35 @@
 
 <br/>
 
+#### 12. 트래픽이 높아질 때, DB는 어떻게 관리를 할 수 있을까요?
+- DB 서버를 분산하지 않고, 트래픽을 감당할 수 있는 방법은 없을까요?
+
+<br/>
+
+#### 13. Schema가 무엇인가요?
+- Schema의 3계층에 대해 설명해 주세요.
+
+<br/>
+
+#### 14. DB의 Connection Pool에 대해 설명해주세요.
+- DB와 Client가 Connection을 어떻게 구성하는지 설명해 주세요.
+- Connection Pool을 사용할 때 고려해야 하는 설정값은 무엇이 있나요?
+- Connection Pool에 있는 Connection이 모두 사용중일때 요청이 오면 어떻게 될까요?
+
+<br/>
+
+#### 15.  Table Full Scan, Index Range Scan에 대해 설명해 주세요.
+- 가끔은 인덱스를 타는 쿼리임에도 Table Full Scan 방식으로 동작하는 경우가 있습니다. 왜 그럴까요?
+- COUNT (개수를 세는 쿼리) 는 어떻게 동작하나요? COUNT(1), COUNT(*), COUNT(column) 의 동작 과정에는 차이가 있나요?
+- Table Full Scan과 Index Range Scan은 주로 어떠한 차이점이 있을까요? 
+- 혹시 Table Full Scan이 Index Range Scan보다 더 유리한 경우가 있을까요?
+
+<br/>
+
+#### 16. SQL Injection에 대해 설명해 주세요.
+- 그렇다면, 우리가 서버 개발 과정에서 사용하는 수많은 DB 라이브러리들은 이 문제를 어떻게 해결할까요?
+- SQL Injection을 방지하기 위한 방법에는 어떤 것이 있나요?
+
 ---
 
 ## 미분류
